@@ -1,0 +1,15 @@
+.button{
+	-fx-background-color: #4f9c9c;
+	-fx-text-fill: #ffffff;
+}
+
+
+.vbox{
+	-fx-background-color: #343434;
+
+}
+
+.label{
+	-fx-text-fill: #a5f9f1;
+	-fx-font-weight: bold;
+}
